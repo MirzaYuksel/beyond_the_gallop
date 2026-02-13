@@ -1,5 +1,8 @@
 # Beyond the Gallop: The Gallop Manifesto
 
+# μ (Mu) Technologies
+## Slogan: Beyond the Gallop™
+
 **Project Identity:** BTG-01 (Heritage & Future)  
 **Official Registration:** February 13, 2026  
 **Visionary & Founder:** Mirza Lütfi Yüksel
