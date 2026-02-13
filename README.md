@@ -1,7 +1,7 @@
 # Beyond the Gallop: The Gallop Manifesto
 
-**Project Identity:** BTG-01 (Heritage & Future)
-**Official Registration:** February 13, 2026
+**Project Identity:** BTG-01 (Heritage & Future)  
+**Official Registration:** February 13, 2026  
 **Visionary & Founder:** Mirza Lütfi Yüksel
 
 ---
@@ -29,68 +29,30 @@ I am not following trends. I am creating a legacy that honors the industrial gia
 * The slogan **"Beyond the Gallop"** and its specific philosophical application to industrial design and hardware are my exclusive intellectual property.
 * Any attempt to replicate this vision, this naming, or this specific fusion of Fordian philosophy with artisan hardware will be met with the full force of copyright law.
 
-* Clarification on Brand Distinction & Prior Use
-As of February 13, 2026, this declaration establishes Mirza Yüksel as the sole claimant of "Beyond the Gallop" (and its translations) specifically within the Consumer Electronics, Industrial Design, and Artisan Hardware sectors.
+### Clarification on Brand Distinction & Prior Use
+As of February 13, 2026, this declaration establishes **Mirza Lütfi Yüksel** as the sole claimant of "Beyond the Gallop" (and its translations) specifically within the Consumer Electronics, Industrial Design, and Artisan Hardware sectors.
 
-Sectoral Sovereignty: While the term "Beyond the Gallop" may exist in unrelated fields (such as equestrian sports, cinematography, or literature), Mirza Yüksel claims the definitive right to this brand identity regarding the fusion of Henry Ford’s philosophy with walnut-encased technology.
+* **Sectoral Sovereignty:** While the term "Beyond the Gallop" may exist in unrelated fields, Mirza Lütfi Yüksel claims the definitive right to this brand identity regarding the fusion of Henry Ford’s philosophy with walnut-encased technology.
+* **Conceptual Uniqueness:** The intellectual property protected here is the Specific Application of Ford’s "Faster Horses" analogy to high-end hardware.
+* **Distinction:** Any pre-existing use of this name in non-tech sectors does not grant rights for its use within the industrial design or electronics industry.
 
-Conceptual Uniqueness: The intellectual property protected here is not merely the string of words, but the Specific Application of Ford’s "Faster Horses" analogy to high-end hardware.
+### Notice to Potential Rightsholders
+I, **Mirza Lütfi Yüksel**, am committed to respecting intellectual property rights. If a technology-based entity believes they have a prior, legally binding claim to this name within the same specific industry, please contact me directly through this repository or my GitHub profile. I am open to constructive dialogue to ensure my vision respects the global legal landscape.
 
-Distinction: Any pre-existing use of this name in non-tech sectors does not grant rights for its use within the industrial design or electronics industry. This repository stands as the first formal link between this name and this specific technological vision.
+### Universal Language Protections
+The following terms, in their respective languages, are strictly claimed by **Mirza Lütfi Yüksel** to ensure cross-border intellectual property protection. Any unauthorized use in the context of hardware, artisan electronics, or industrial design is prohibited:
 
-Notice to Potential Rightsholders
-I, Mirza Lütfi Yüksel, am committed to respecting intellectual property rights. If a technology-based entity believes they have a prior, legally binding claim to this name within the same specific industry (Artisan Electronics/Industrial Design), please contact me directly through this repository or my GitHub profile.
+* **English:** Beyond the Gallop™, Beyond the Horse™, The Post-Gallop Era™, Beyond the Tölt™
+* **Turkish:** Dörtnalın Ötesinde™, Atın Ötesinde™, Dörtnal Sonrası Çağı™ Töltün ötesinde
+* **German:** Über den Galopp Hinaus™, Jenseits des Pferdes™, Die Post-Galopp Ära™
+* **French:** Au-delà du Galop™, Au-delà du Cheval™, L'ère Post-Galop™
+* **Spanish:** Más Allá del Galope™, Más Allá del Caballo™, La Era Post-Galope™
+* **Japanese:** ギャロップを超えて (Gyaroppu o Koete)™, 馬を超えて (Uma o Koete)™, ポスト・ギャロップ時代 (Posuto Gyaroppu Jidai)™
 
-I am open to constructive dialogue to ensure that my unique vision, "Beyond the Gallop," continues to develop in a way that respects the legal landscape of the global tech industry.
+### Cross-Linguistic Note on Conceptual Theft
+This claim is universal. The intellectual property remains with **Mirza Lütfi Yüksel** regardless of translation. This protection specifically covers the fusion of Henry Ford’s "Faster Horses" philosophy with walnut-encased electronic hardware.
 
-Global Comprehensive Brand Protection List
-The following terms, in all listed languages, are strictly claimed by Mirza Yüksel. Any unauthorized use of these variations in the context of hardware, artisan electronics, or industrial design is prohibited:
-
-English (Global Standard)
-Beyond the Gallop™
-
-Beyond the Horse™
-
-The Post-Gallop Era™
-
-Turkish (Origin)
-Dörtnalın Ötesinde™
-
-Atın Ötesinde™
-
-Dörtnal Sonrası Çağı™
-
-German (Engineering & Heritage)
-Über den Galopp Hinaus™
-
-Jenseits des Pferdes™
-
-Die Post-Galopp Ära™
-
-French (Luxury & Craft)
-Au-delà du Galop™
-
-Au-delà du Cheval™
-
-L'ère Post-Galop™
-
-Spanish (Expansion)
-Más Allá del Galope™
-
-Más Allá del Caballo™
-
-La Era Post-Galope™
-
-Japanese (Tech & Zen Design)
-ギャロップを超えて (Gyaroppu o Koete)™
-
-馬を超えて (Uma o Koete)™
-
-ポスト・ギャロップ時代 (Posuto Gyaroppu Jidai)™
-
-Cross-Linguistic Note on Conceptual Theft
-This claim is universal. Whether it is called "Au-delà du Galop" or "Über den Galopp Hinaus," the intellectual property remains with Mirza Yüksel. This protection specifically covers the fusion of Henry Ford’s "Faster Horses" philosophy with walnut-encased electronic hardware. You cannot bypass this protection by simply translating the name.
-
-Disclaimer: This project is an independent artistic and industrial design endeavor by Mirza Yüksel. References to Henry Ford are strictly for philosophical and inspirational purposes, acknowledging his historical contribution to innovation. "Beyond the Gallop" is not affiliated with, endorsed by, or sponsored by Ford Motor Company.
 ---
+**Disclaimer:** This project is an independent artistic and industrial design endeavor by Mirza Lütfi Yüksel. References to Henry Ford are strictly for philosophical and inspirational purposes. "Beyond the Gallop" is not affiliated with, endorsed by, or sponsored by Ford Company.
+
 *"I am not here to give people what they want. I am here to give them what they dreamed of but couldn't name."* — **Mirza Lütfi Yüksel**
